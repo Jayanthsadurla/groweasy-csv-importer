@@ -2,10 +2,6 @@
 
 An AI-powered CSV importer that ingests CSV files with varying column layouts — including Facebook Lead Ads exports, Google Ads exports, real-estate CRM exports, and manual spreadsheets — and converts them into clean, validated GrowEasy CRM records.
 
-## What makes this approach different
-
-A basic implementation could send every CSV row through one large LLM prompt. This project instead uses a two-phase pipeline designed to improve efficiency, visibility, resilience, and output validation.
-
 # GrowEasy CSV Importer — AI-Mapped Lead Import Pipeline
 
 An AI-powered CSV importer that ingests CSV files with varying column layouts — including Facebook Lead Ads exports, Google Ads exports, real-estate CRM exports, and manual spreadsheets — and converts them into clean, validated GrowEasy CRM records.

@@ -554,6 +554,13 @@ LLM output should not be treated as trusted application data. Server-side valida
 
 ---
 
-## License
+## Author
 
-This project was developed as a software development assignment and demonstration project.
+**Jayanth Sadurla**
+
+B.Tech Computer Science and Engineering (Data Science)  
+Class of 2026
+
+GitHub: Jayanthsadurla
+
+This project was developed as part of the GrowEasy Software Developer assignment.

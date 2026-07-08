@@ -1,0 +1,6 @@
+full_name,email_address,phone_number,city_town,lead_source,created_time,ad_notes
+Ananya Rao,ananya.rao@gmail.com,+91 9845012345,Bengaluru,leads_on_demand,2026-06-01 10:15:00,Interested in 3BHK possession Dec 2026
+Vikram Shah,,9820011122,Mumbai,meridian_tower,2026-06-01 11:02:00,Asked for site visit this weekend
+,noemailorphone@nowhere.com,,Pune,,2026-06-01 11:45:00,Random test entry with only email
+Karthik Iyer,karthik.iyer@yahoo.com; karthik.alt@gmail.com,9900112233,Chennai,eden_park,2026-06-02 09:30:00,Two emails on file, prefers WhatsApp
+Empty Row Test,,,,,, 

@@ -1,0 +1,35 @@
+@import url("https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  scrollbar-width: thin;
+}
+
+.data-table-wrap {
+  max-height: 420px;
+  overflow: auto;
+  border-radius: 0.75rem;
+}
+
+.data-table-wrap table {
+  border-collapse: separate;
+  border-spacing: 0;
+}
+
+.data-table-wrap thead th {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+}
+
+@keyframes pulseDot {
+  0%, 100% { opacity: 0.35; }
+  50% { opacity: 1; }
+}
+
+.pulse-dot {
+  animation: pulseDot 1.2s ease-in-out infinite;
+}
